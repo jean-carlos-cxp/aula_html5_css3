@@ -1,0 +1,44 @@
+body {
+    background: #E2E1E3;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+nav {
+    font-family: fantasy;
+}
+
+header {
+    margin-top: 60px;
+}
+
+h1 {
+    color: brown;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_padrao00 {
+    margin-bottom: 20px;
+    width: 100px;
+}
+
+.logo {
+    width: 30px;
+}
